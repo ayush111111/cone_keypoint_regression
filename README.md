@@ -8,7 +8,9 @@
 # 1.Important links:
 
   https://arxiv.org/pdf/1902.02394.pdf#figure.4
+  
   https://github.com/cv-core/MIT-Driverless-CV-TrainingInfra
+  
   #cvc-yolov3-dataset-with-formula-student-standard-is-open-sourced-here (RektNet).
 
 
